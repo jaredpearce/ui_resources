@@ -1,0 +1,49 @@
+  {
+  "type": "podcast",
+  "link": "http://5by5.tv/webahead",
+  "title": "The Web Ahead",
+  "author": "Jen Simmons",
+  "category": null
+	},
+  {
+  "type": "podcast",
+  "link": "http://styleguides.io/podcast/index.html",
+  "title": "Style Guides",
+  "author": [ "Anna Debenham", "Brad Frost" ],
+  "category": [ "style guide", "CSS", "HTML" ]
+  },
+  {
+  "type": "podcast",
+  "link": "http://pathtoperf.com/",
+  "title": "The Path to Performance",
+  "author": "Anna Debenham, Brad Frost",
+  "category": "performance"
+  },
+  {
+  "type": "podcast",
+  "link": "http://www.unfinished.bz/",
+  "title": "Unfinished Business",
+  "author": "Andy Clarke",
+  "category": null
+  },
+  {
+  "type": "podcast",
+  "link": "http://shoptalkshow.com/",
+  "title": "Shop Talk Show",
+  "author": [ "Chris Coyier", "Dave Rupert" ],
+  "category": null
+  },
+  {
+    "type": "podcast",
+    "link": "http://ctrlclickcast.com/",
+    "title": "Ctrl + Click Cast",
+    "author": [ "Lea Alcantara","Emily Lewis" ],
+    "category": null
+  },
+  {
+    "type": "podcast",
+    "link": "https://boagworld.com/show",
+    "title": "Boagworld",
+    "author": [ "Paul Boag", "Marcus Lillington" ],
+    "category": null
+  }
