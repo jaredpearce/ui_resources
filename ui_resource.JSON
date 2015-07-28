@@ -130,4 +130,11 @@
   "title": "Style Tiles",
   "author": "Samantha Warren",
   "category": "tool, design, style guides" 
+},
+{
+  "type": "book",
+  "link": "http://www.angularjsbook.com/",
+  "title": "Angular Basics",
+  "author": "Chris Smith",
+  "category": "books, javascript, angularjs"
 }
