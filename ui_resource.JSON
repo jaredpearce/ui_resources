@@ -46,4 +46,88 @@
     "title": "Boagworld",
     "author": [ "Paul Boag", "Marcus Lillington" ],
     "category": null
-  }
+  },
+  {
+  "type": "article",
+  "link": "http://practicaltypography.com",
+  "title": "Butterick's Practical Typography",
+  "author": "",
+  "category": "typography" 
+},
+{
+  "type": "book",
+  "link": "http://webtypography.net/",
+  "title": "The Elements of Typographic Style Applied to the Web",
+  "author": "Richard Rutter",
+  "category": "typography" 
+},
+{
+  "type": "tool",
+  "link": "http://nicewebtype.com/",
+  "title": "Nice Web Typography",
+  "author": "Tim Brown",
+  "category": "typography, tool" 
+},
+{
+  "type": "tool",
+  "link": "http://type-scale.com/",
+  "title": "Type Scale",
+  "author": "Jeremy Church",
+  "category": "typography, tool" 
+},
+{
+  "type": "tool",
+  "link": "http://www.typetester.org/",
+  "title": "TypeTester",
+  "author": "Creative Nights",
+  "category": "typography, tool" 
+},
+{
+  "type": "book",
+  "link": "http://cssguidelin.es/",
+  "title": "CSS Guidelines",
+  "author": "Harry Roberts",
+  "category": "book, css, code" 
+},
+{
+  "type": "resource",
+  "link": "https://teach.mozilla.org/",
+  "title": "The Mozilla Learning Network",
+  "author": "Mozilla",
+  "category": "learn, teach, web" 
+},
+{
+  "type": "tool",
+  "link": "http://mqtest.io/",
+  "title": "Media Query Test",
+  "author": "Viljami Salminen",
+  "category": "tool, meida query" 
+},
+{
+  "type": "book",
+  "link": "https://smacss.com/",
+  "title": "Scalable and Modular Architecture for CSS",
+  "author": "Jonathan Snook",
+  "category": "book, css, code" 
+},
+{
+  "type": "tool",
+  "link": "http://the-echoplex.net/flexyboxes/",
+  "title": "Flexy Boxes",
+  "author": "Pete Boere",
+  "category": "flex box, css" 
+},
+{
+  "type": "tool",
+  "link": "http://dev.modern.ie/tools/vms/mac/",
+  "title": "IE Virtual Machines",
+  "author": "Microsoft",
+  "category": "tool, virtual machine, IE" 
+},
+{
+  "type": "tool",
+  "link": "http://styletil.es/",
+  "title": "Style Tiles",
+  "author": "Samantha Warren",
+  "category": "tool, design, style guides" 
+}
